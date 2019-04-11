@@ -16,10 +16,10 @@
   "LOW" = "Low";
   "MEDIUM" = "Medium";
   "HIGH" = "High";
-  "STROKE_SIZE" = "Stroke Size"
   "SMALL" = "Small";
-  "MEDIUM" = "Medium";
   "LARGE" = "Large";
+
+  "STROKE_SIZE" = "Stroke Size"
   "EXPAND_ANIM" = "Expand";
   "HIGHLIGHT_ANIM" = "Highlight";
   "HIGHLIGHT_COLOR" = "Highlight Color";
