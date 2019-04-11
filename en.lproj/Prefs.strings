@@ -19,7 +19,7 @@
   "SMALL" = "Small";
   "LARGE" = "Large";
 
-  "STROKE_SIZE" = "Stroke Size"
+  "STROKE_SIZE" = "Stroke Size";
   "EXPAND_ANIM" = "Expand";
   "HIGHLIGHT_ANIM" = "Highlight";
   "HIGHLIGHT_COLOR" = "Highlight Color";
