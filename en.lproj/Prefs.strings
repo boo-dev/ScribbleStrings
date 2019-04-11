@@ -1,0 +1,33 @@
+{
+  "ENABLED" = "Enabled";
+  "STYLE" = "Style";
+  "APPLY" = "Apply";
+  
+  "ENTER" = "Enter";
+  "DRAW" = "Draw";
+  "RECORD_PASSWORD" = "Record Your Password";
+  "RECORD_NEW_PASSWORD" = "Record New Password";
+  "DRAW_CURRENT_PASS" = "Draw Current Password";
+  "ONCE_MORE" = "Once More"
+  "LAST_TIME" = "One Last Time";
+
+  "UNLOCK_ANIM" = "Unlock Animation";
+  "RECOGNITION_STRICTNESS" = "Recognition Strictness";
+  "LOW" = "Low";
+  "MEDIUM" = "Medium";
+  "HIGH" = "High";
+  "STROKE_SIZE" = "Stroke Size"
+  "SMALL" = "Small";
+  "MEDIUM" = "Medium";
+  "LARGE" = "Large";
+  "EXPAND_ANIM" = "Expand";
+  "HIGHLIGHT_ANIM" = "Highlight";
+  "HIGHLIGHT_COLOR" = "Highlight Color";
+  "DEFAULT" = "Default";
+  "PAINT" = "Paint";
+  "PAINT_COLOR" = "Paint Color";
+
+  "CHANGE_PASS" = "Change Password";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Reset Settings Back To Default";
+}
