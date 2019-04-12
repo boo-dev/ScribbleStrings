@@ -1,0 +1,33 @@
+{
+  "ENABLED" = "Activado";
+  "STYLE" = "Estilo";
+  "APPLY" = "Aplicar";
+  
+  "ENTER" = "Entrar";
+  "DRAW" = "Dibujar";
+  "RECORD_PASSWORD" = "Grabar Contraseña";
+  "RECORD_NEW_PASSWORD" = "Grabar Nueva Contraseña";
+  "DRAW_CURRENT_PASS" = "Dibujar Contraseña Anterior";
+  "ONCE_MORE" = "Una vez más";
+  "LAST_TIME" = "La última vez";
+
+  "UNLOCK_ANIM" = "Animación para desbloquear";
+  "RECOGNITION_STRICTNESS" = "Reconocimiento Estricto";
+  "LOW" = "Bajo";
+  "MEDIUM" = "Aceptable";
+  "HIGH" = "Alto";
+  "SMALL" = "Pequeño";
+  "LARGE" = "Largo";
+
+  "STROKE_SIZE" = "Tamaño del trazoStroke Size";
+  "EXPAND_ANIM" = "Expandir";
+  "HIGHLIGHT_ANIM" = "Resaltar Animación";
+  "HIGHLIGHT_COLOR" = "Color de la animación";
+  "DEFAULT" = "Por Defecto";
+  "PAINT" = "Pintar";
+  "PAINT_COLOR" = "Color";
+
+  "CHANGE_PASS" = "Cambiar contraseña";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Restaurar los ajustes por defecto";
+}
