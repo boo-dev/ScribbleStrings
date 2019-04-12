@@ -19,7 +19,7 @@
   "SMALL" = "Pequeño";
   "LARGE" = "Largo";
 
-  "STROKE_SIZE" = "Tamaño del trazoStroke Size";
+  "STROKE_SIZE" = "Tamaño del trazo";
   "EXPAND_ANIM" = "Expandir";
   "HIGHLIGHT_ANIM" = "Resaltar Animación";
   "HIGHLIGHT_COLOR" = "Color de la animación";
