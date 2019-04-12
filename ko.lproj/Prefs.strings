@@ -1,0 +1,33 @@
+{
+  "ENABLED" = "사용";
+  "STYLE" = "스타일";
+  "APPLY" = "적용";
+  
+  "ENTER" = "입력해주세요";
+  "DRAW" = "그려주세요";
+  "RECORD_PASSWORD" = "패턴을 그려주세요";
+  "RECORD_NEW_PASSWORD" = "새로운 패턴을 그려주세요";
+  "DRAW_CURRENT_PASS" = "현재 패턴을 그려주세요";
+  "ONCE_MORE" = "한번더 그려주세요";
+  "LAST_TIME" = "마지막으로 한번만더 그려주세요";
+
+  "UNLOCK_ANIM" = "잠금 해제 애니메이션";
+  "RECOGNITION_STRICTNESS" = "패턴 인식 엄격성";
+  "LOW" = "낮음";
+  "MEDIUM" = "보통";
+  "HIGH" = "높음";
+  "SMALL" = "작음";
+  "LARGE" = "큼";
+
+  "STROKE_SIZE" = "획 크기";
+  "EXPAND_ANIM" = "넓히기";
+  "HIGHLIGHT_ANIM" = "하이라이트";
+  "HIGHLIGHT_COLOR" = "하이라이트 색";
+  "DEFAULT" = "기본 색";
+  "PAINT" = "페인트";
+  "PAINT_COLOR" = "페인트 색";
+
+  "CHANGE_PASS" = "페턴 바꾸기";
+  "RESPRING" = "설정 적용하기";
+  "RESTORE_DEFAULTS" = "기본 설정으로 리셋하기";
+}
