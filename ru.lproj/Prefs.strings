@@ -1,0 +1,33 @@
+{
+  "ENABLED" = "Включить";
+  "STYLE" = "Стиль";
+  "APPLY" = "Применить";
+  
+  "ENTER" = "Ввод";
+  "DRAW" = "Нарисовать";
+  "RECORD_PASSWORD" = "Запишите пароль";
+  "RECORD_NEW_PASSWORD" = "Нарисуйте новый пароль";
+  "DRAW_CURRENT_PASS" = "Нарисуйте текущий пароль";
+  "ONCE_MORE" = "Ещё разок";
+  "LAST_TIME" = "В самый последний раз";
+
+  "UNLOCK_ANIM" = "Анимация разблокировки";
+  "RECOGNITION_STRICTNESS" = "Допуск распознавания";
+  "LOW" = "Низкая";
+  "MEDIUM" = "Средний";
+  "HIGH" = "Высокая";
+  "SMALL" = "Маленький";
+  "LARGE" = "Большой";
+
+  "STROKE_SIZE" = "Размер кисти";
+  "EXPAND_ANIM" = "Расширение";
+  "HIGHLIGHT_ANIM" = "Подсветка";
+  "HIGHLIGHT_COLOR" = "Цвет подсветки";
+  "DEFAULT" = "По умолчанию";
+  "PAINT" = "Краска";
+  "PAINT_COLOR" = "Цвет краски";
+
+  "CHANGE_PASS" = "Изменить пароль";
+  "RESPRING" = "Респринг";
+  "RESTORE_DEFAULTS" = "Сбросить все настройки твика";
+}
