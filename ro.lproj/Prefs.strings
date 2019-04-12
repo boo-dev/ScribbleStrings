@@ -1,0 +1,33 @@
+{
+  "ENABLED" = "Activat";
+  "STYLE" = "Stil";
+  "APPLY" = "Aplicați";
+  
+  "ENTER" = "Introduceți";
+  "DRAW" = "Desenați";
+  "RECORD_PASSWORD" = "Înregistrați parola";
+  "RECORD_NEW_PASSWORD" = "Înregistrați parola nouă";
+  "DRAW_CURRENT_PASS" = "Desenați parola actuală";
+  "ONCE_MORE" = "Încă o dată";
+  "LAST_TIME" = "Ultima oară";
+
+  "UNLOCK_ANIM" = "Animație de deblocare";
+  "RECOGNITION_STRICTNESS" = "Strictețea recunoașterii";
+  "LOW" = "Joasă";
+  "MEDIUM" = "Medie";
+  "HIGH" = "Ridicată";
+  "SMALL" = "Mică";
+  "LARGE" = "Mare";
+
+  "STROKE_SIZE" = "Mărimea urmei";
+  "EXPAND_ANIM" = "Extindere";
+  "HIGHLIGHT_ANIM" = "Accentuare";
+  "HIGHLIGHT_COLOR" = "Culoare accent";
+  "DEFAULT" = "Implicit";
+  "PAINT" = "Vopsea";
+  "PAINT_COLOR" = "Culoare vopsea";
+
+  "CHANGE_PASS" = "Schimbați parola";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Resetați setările la valorile implicite";
+}
