@@ -1,29 +1,33 @@
 {
-    APPLY = "تطبيق";
-    "CHANGE_PASS" = "تغيير كلمة السر";
-    DEFAULT = "افتراضي";
-    DRAW = "ارسم";
-    "DRAW_CURRENT_PASS" = "ارسم كلمة السر الحالية";
-    ENABLED = "تفعيل";
-    ENTER = "إدخال";
-    "EXPAND_ANIM" = "توسع";
-    HIGH = "مرتفع";
-    "HIGHLIGHT_ANIM" = "إضاءة";
-    "HIGHLIGHT_COLOR" = "لون الإضاءة";
-    LARGE = "كبير";
-    "LAST_TIME" = "للمرة الأخيرة";
-    LOW = "منخفض";
-    MEDIUM = "متوسط";
-    "ONCE_MORE" = "مرة أخرى";
-    PAINT = "مصبوغ";
-    "PAINT_COLOR" = "لون الصبغة";
-    "RECOGNITION_STRICTNESS" = "دقة التعرف";
-    "RECORD_NEW_PASSWORD" = "تسجيل كلمة سر جديدة";
-    "RECORD_PASSWORD" = "تسجيل كلمة السر الخاصة بك";
-    RESPRING = "ريسبرنج";
-    "RESTORE_DEFAULTS" = "إعادة تعيين الإعدادات إلى الافتراضية";
-    SMALL = "صغير";
-    "STROKE_SIZE" = "حجم الرسم";
-    STYLE = "الشكل";
-    "UNLOCK_ANIM" = "التأثير الحركي لفتح القفل";
+  "ENABLED" = "تفعيل";
+  "STYLE" = "الشكل";
+  "APPLY" = "تطبيق";
+  
+  "ENTER" = "إدخال";
+  "DRAW" = "ارسم";
+  "RECORD_PASSWORD" = "تسجيل كلمة السر الخاصة بك";
+  "RECORD_NEW_PASSWORD" = "تسجيل كلمة سر جديدة";
+  "DRAW_CURRENT_PASS" = "ارسم كلمة السر الحالية";
+  "ONCE_MORE" = "مرة أخرى";
+  "LAST_TIME" = "للمرة الأخيرة";
+
+  "UNLOCK_ANIM" = "التأثير الحركي لفتح القفل";
+  "RECOGNITION_STRICTNESS" = "دقة التعرف";
+  "LOW" = "منخفضة";
+  "MEDIUM" = "متوسطة";
+  "HIGH" = "مرتفعة";
+  "SMALL" = "صغير";
+  "LARGE" = "كبير";
+
+  "STROKE_SIZE" = "حجم الرسم";
+  "EXPAND_ANIM" = "توسع";
+  "HIGHLIGHT_ANIM" = "إضاءة";
+  "HIGHLIGHT_COLOR" = "لون الإضاءة";
+  "DEFAULT" = "افتراضي";
+  "PAINT" = "مصبوغ";
+  "PAINT_COLOR" = "لون الصبغة";
+
+  "CHANGE_PASS" = "تغيير كلمة السر";
+  "RESPRING" = "ريسبرنج";
+  "RESTORE_DEFAULTS" = "إعادة تعيين الإعدادات إلى الافتراضية";
 }
