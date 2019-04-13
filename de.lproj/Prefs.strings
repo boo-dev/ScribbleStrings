@@ -30,4 +30,10 @@
   "CHANGE_PASS" = "Passwort ändern";
   "RESPRING" = "Respring";
   "RESTORE_DEFAULTS" = "Einstellungen zurücksetzen";
+
+  "CREDITS" = "Credits";
+  "WELCOME" = "Willkommen bei Scribble";
+  "DESCRIPTION" = "Danke, dass du Scribble gekauft hast.\nBitte entsperre dein Gerät mit deinem Passwort\ndann nimm dein neues Scribble Passwort in den Einstellungen auf.";
+  "DISMISS" = "Tippe zum Schließen.";
+  "TRANSLATIONS_BY" = "Überbetzungen bereitgestellt von";
 }
