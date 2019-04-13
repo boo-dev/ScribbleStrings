@@ -30,4 +30,10 @@
   "CHANGE_PASS" = "페턴 바꾸기";
   "RESPRING" = "설정 적용하기";
   "RESTORE_DEFAULTS" = "기본 설정으로 리셋하기";
+  
+  "CREDITS" = "특별감사";
+  "WELCOME" = "Scribble을 환영합니다!";
+  "DESCRIPTION" = "Scribble을 구입해 주셔서 감사합니다!\n비밀번호로 잠금을 해제하신후,\n새로운 패턴을 설정에서 그려주시길 바랍니다.";
+  "DISMISS" = "닫기";
+  "TRANSLATIONS_BY" = "번역자";
 }
