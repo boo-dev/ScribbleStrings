@@ -30,4 +30,10 @@
   "CHANGE_PASS" = "Schimbați parola";
   "RESPRING" = "Respring";
   "RESTORE_DEFAULTS" = "Resetați setările la valorile implicite";
+  
+  "CREDITS" = "Credite";
+  "WELCOME" = "Bun venit la Scribble!";
+  "DESCRIPTION" = "Vă mulțumim că ați achiziționat Scribble!\nVă rugăm să vă deblocați dispozitivul cu codul dumneavoastră de acces\napoi înregistrați-vă noua parolă Scribble în Configurări.";
+  "DISMISS" = "ATINGEȚI PENTRU DEGAJARE";
+  "TRANSLATIONS_BY" = "Traduceri oferite de către";
 }
