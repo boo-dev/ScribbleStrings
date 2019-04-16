@@ -30,4 +30,10 @@
   "CHANGE_PASS" = "Parola Değiştir";
   "RESPRING" = "SpringBoard'ı Yeniden Başlat";
   "RESTORE_DEFAULTS" = "Ayarları Sıfırla";
+
+  "CREDITS" = "Emeği Geçenler";
+  "WELCOME" = "Scribble'a Hoşgeldiniz!";
+  "DESCRIPTION" = "Scribble'ı Satın Aldığınız İçin Teşekkür Ederim!\nSonra Lütfen Parolanız İle Cihazınızın Kilitini Açınız\nSonra Yeni Scribble Parolanızı Ayarlardan Kaydetebilirsiniz.";
+  "DISMISS" = "Kapat";
+  "TRANSLATIONS_BY" = "Çevirmenler";
 }
