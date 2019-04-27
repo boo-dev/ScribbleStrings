@@ -30,4 +30,10 @@
   "CHANGE_PASS" = "Cambiar contraseña";
   "RESPRING" = "Respring";
   "RESTORE_DEFAULTS" = "Restaurar los ajustes por defecto";
+  
+  "CREDITS" = "Créditos";
+  "WELCOME" = "¡Bienvenido a Scribble!";
+  "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo con tu contraseña\ndespués podrás crear tu contraseña nueva dentro de Scribble.";
+  "DISMISS" = "Pulsa para salir";
+  "TRANSLATIONS_BY" = "Traducción hecha por @tnttaolin2";
 }
