@@ -21,8 +21,8 @@
 
   "STROKE_SIZE" = "حجم الرسم";
   "EXPAND_ANIM" = "توسع";
-  "HIGHLIGHT_ANIM" = "إضاءة";
-  "HIGHLIGHT_COLOR" = "لون الإضاءة";
+  "HIGHLIGHT_ANIM" = "ضوء مسلط";
+  "HIGHLIGHT_COLOR" = "لون الضوء المسلط";
   "DEFAULT" = "افتراضي";
   "PAINT" = "مصبوغ";
   "PAINT_COLOR" = "لون الصبغة";
@@ -43,7 +43,7 @@
 
   "CANCEL" = "إلغاء";
   "EMERGENCY" = "الطوارئ";
-  "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير كلمة السر!";
+  "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير رمز الدخول!";
   "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
   "OK" = "حسنًا";
   "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
