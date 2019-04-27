@@ -49,4 +49,7 @@
   "TRY_AGAIN" = "try again in 1 minute";
   "DISABLED" = " is disabled"; // dont translate <device>
   "FAST_UNLOCK" = "Fast Unlock";
+
+  "PIRATED" = "Pirated :(";
+  "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or donating to me if you enjoy your experience.\n To donate go to: https://boodev.me/donate\nFollow me on twitter: @BooDev";
 }
