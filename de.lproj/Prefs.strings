@@ -35,5 +35,24 @@
   "WELCOME" = "Willkommen bei Scribble!";
   "DESCRIPTION" = "Danke, dass du Scribble gekauft hast!\nBitte entsperre dein Gerät mit deinem Passwort\ndann nimm dein neues Scribble Passwort in den Einstellungen auf.";
   "DISMISS" = "Tippe zum Schließen.";
-  "TRANSLATIONS_BY" = "Überbetzungen bereitgestellt von";
+  
+  "ATTEMPTS_ENABLED" = "Deaktiviere Gerät bei fehlgeschlagenen Versuchen";
+  "NUM_ATTEMPTS" = "Anzahl der fehlgeschlagenen Versuche";
+  "SECURITY" = "Sicherheit";
+  "CANCEL_KEYPAD" = "Abbrechen zeigt das Tastenfeld";
+
+  "CANCEL" = "Abbrechen";
+  "EMERGENCY" = "Notfall";
+  "PASSCODE_CHANGED_TITLE" = "Passwortänderung erkannt!";
+  "PASSCODE_CHANGED_MESSAGE" = "Bitte gib dein Passwort ein, um Scribble weiter zu verwenden.";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "Versuche es in einer Minute erneut";
+  "DISABLED" = " ist deaktiviert"; // dont translate <device>
+  "FAST_UNLOCK" = "Schnelles entsperren";
+
+  "PIRATED" = "Raubkopie :(";
+  "PIRATED_SUB" = "Es sieht so aus als hättest du eine Raubkopie von Scribble. Bitte überlege dir den Tweak zu kaufen oder\nmir etwas zu spenden, wenn dir dein Erlebnis gefällt.\n Um zu spenden, gehe zu:\nhttps://boodev.me/donate\nFolge mir auf Twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Passwort eingegeben!";
+  "PASSWORD_ENTERED_MESSAGE" = "Danke, dass du dein neues Passwort eingegeben hast. Das Gerät wird nun einen Respring ausführen.";
 }
