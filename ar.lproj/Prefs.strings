@@ -35,5 +35,24 @@
   "WELCOME" = "مرحبًا بك في Scribble!";
   "DESCRIPTION" = "شكرًا لشرائك Scribble!\nيرجى فتح قفل جهازك عن طريق رمز الدخول الخاص بك\nوبعد ذلك قم بتسجيل كلمة سر Scribble جديدة من الإعدادات.";
   "DISMISS" = "انقر هنا للتجاهل";
-  "TRANSLATIONS_BY" = "تمت الترجمة بواسطة";
+
+  "ATTEMPTS_ENABLED" = "Disable Device For Failed Attempts";
+  "NUM_ATTEMPTS" = "Number of Failed Attempts";
+  "SECURITY" = "Security";
+  "CANCEL_KEYPAD" = "Cancel Shows Keypad";
+
+  "CANCEL" = "Cancel";
+  "EMERGENCY" = "Emergency";
+  "PASSCODE_CHANGED_TITLE" = "Password Change Detected!";
+  "PASSCODE_CHANGED_MESSAGE" = "Please enter your passcode to continue using Scribble";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "try again in 1 minute";
+  "DISABLED" = " is disabled"; // dont translate <device>
+  "FAST_UNLOCK" = "Fast Unlock";
+
+  "PIRATED" = "Pirated :(";
+  "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or\ndonating to me if you enjoy your experience.\n To donate go to:\nhttps://boodev.me/donate\nFollow me on twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Password Entered!";
+  "PASSWORD_ENTERED_MESSAGE" = "Thank you for entering your new password, your device will respring now.";
 }
