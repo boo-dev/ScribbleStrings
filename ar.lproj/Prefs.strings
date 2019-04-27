@@ -50,8 +50,8 @@
   "DISABLED" = " معطل"; // لا تترجم <device>
   "FAST_UNLOCK" = "فتح قفل سريع";
 
-  "PIRATED" = "مقرصنة :(";
-  "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or\ndonating to me if you enjoy your experience.\n To donate go to:\nhttps://boodev.me/donate\nFollow me on twitter: @BooDev";
+  "PIRATED" = "قرصنة :(";
+  "PIRATED_SUB" = "يبدو أن هذه نسخة مقرصنة من Scribble. يرجى التفكير في شراء هذه الأداة أو\nالتبرع لي إذا كنت تستمتع بتجربتك.\n للتبرع اذهب إلى:\nhttps://boodev.me/donate\nتابعني على تويتر: @BooDev";
 
   "NEW_PASSWORD_ENTERED" = "تم إدخال كلمة السر!";
   "PASSWORD_ENTERED_MESSAGE" = "شكرًا لك على إدخالك لكلمة السر الجديدة، سيتم عمل ريسبرنج لجهازك الآن.";
