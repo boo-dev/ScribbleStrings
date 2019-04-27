@@ -47,12 +47,12 @@
   "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
   "OK" = "Ok";
   "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
-  "DISABLED" = " is disabled"; // dont translate <device>
-  "FAST_UNLOCK" = "Fast Unlock";
+  "DISABLED" = " معطل"; // لا تترجم <device>
+  "FAST_UNLOCK" = "فتح قفل سريع";
 
-  "PIRATED" = "Pirated :(";
+  "PIRATED" = "مقرصنة :(";
   "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or\ndonating to me if you enjoy your experience.\n To donate go to:\nhttps://boodev.me/donate\nFollow me on twitter: @BooDev";
 
-  "NEW_PASSWORD_ENTERED" = "Password Entered!";
-  "PASSWORD_ENTERED_MESSAGE" = "Thank you for entering your new password, your device will respring now.";
+  "NEW_PASSWORD_ENTERED" = "تم إدخال كلمة السر!";
+  "PASSWORD_ENTERED_MESSAGE" = "شكرًا لك على إدخالك لكلمة السر الجديدة، سيتم عمل ريسبرنج لجهازك الآن.";
 }
