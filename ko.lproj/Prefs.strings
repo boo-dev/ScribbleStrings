@@ -35,5 +35,25 @@
   "WELCOME" = "Scribble을 환영합니다!";
   "DESCRIPTION" = "Scribble을 구입해 주셔서 감사합니다!\n비밀번호로 잠금을 해제하신후,\n새로운 패턴을 설정에서 그려주시길 바랍니다.";
   "DISMISS" = "닫기";
-  "TRANSLATIONS_BY" = "번역자";
+  
+  "ATTEMPTS_ENABLED" = "실패한 시도에 대해 장치 비활성화";
+  "NUM_ATTEMPTS" = "실패 시도 횟수";
+  "SECURITY" = "보안";
+  "CANCEL_KEYPAD" = "취소후 키보드 보임";
+
+  "CANCEL" = "취소";
+  "EMERGENCY" = "비상";
+  "PASSCODE_CHANGED_TITLE" = "비밀번호 변경이 감지되었습니다!";
+  "PASSCODE_CHANGED_MESSAGE" = "Scribble을 계속 이용하시려면 비밀번호를 입려 해 주세요.";
+  "OK" = "승인";
+  "TRY_AGAIN" = "1분후에 다시 시도 해 주세요";
+  "DISABLED" = " 사용 중지됨"; // <장치를> 번역하지 마세요
+  "FAST_UNLOCK" = "빠른 잠금 해제";
+
+  "PIRATED" = "불법 설치 :(";
+  "PIRATED_SUB" = "불법으로 Scribble을 설치하셨군요. 본인의 경험을 즐기는 경우에 Scribble을 합법적으로 구매하거나 저에게 기부하는 것을 고려해주세요.\n 기부 하시려면 여기로 이동하세요: https://boodev.me/donate\n트위터에서도
+팔로우 해 주세요: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "비밀번호가 입력되었습니다!";
+  "PASSWORD_ENTERED_MESSAGE" = "새 비밀번호를 입력 해 주셔서 감사합니다. 설정이 적용됩니다.";
 }
