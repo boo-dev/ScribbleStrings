@@ -36,14 +36,14 @@
   "DESCRIPTION" = "شكرًا لشرائك Scribble!\nيرجى فتح قفل جهازك عن طريق رمز الدخول الخاص بك\nوبعد ذلك قم بتسجيل كلمة سر Scribble جديدة من الإعدادات.";
   "DISMISS" = "انقر هنا للتجاهل";
 
-  "ATTEMPTS_ENABLED" = "Disable Device For Failed Attempts";
-  "NUM_ATTEMPTS" = "Number of Failed Attempts";
-  "SECURITY" = "Security";
-  "CANCEL_KEYPAD" = "Cancel Shows Keypad";
+  "ATTEMPTS_ENABLED" = "تعطيل الجهاز للمحاولات الفاشلة";
+  "NUM_ATTEMPTS" = "عدد المحاولات الفاشلة";
+  "SECURITY" = "الأمان";
+  "CANCEL_KEYPAD" = "إلغاء إظهار لوحة المفاتيح";
 
-  "CANCEL" = "Cancel";
-  "EMERGENCY" = "Emergency";
-  "PASSCODE_CHANGED_TITLE" = "Password Change Detected!";
+  "CANCEL" = "إلغاء";
+  "EMERGENCY" = "الطوارئ";
+  "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير كلمة السر!";
   "PASSCODE_CHANGED_MESSAGE" = "Please enter your passcode to continue using Scribble";
   "OK" = "Ok";
   "TRY_AGAIN" = "try again in 1 minute";
