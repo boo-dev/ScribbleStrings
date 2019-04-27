@@ -44,9 +44,9 @@
   "CANCEL" = "إلغاء";
   "EMERGENCY" = "الطوارئ";
   "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير كلمة السر!";
-  "PASSCODE_CHANGED_MESSAGE" = "Please enter your passcode to continue using Scribble";
+  "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
   "OK" = "Ok";
-  "TRY_AGAIN" = "try again in 1 minute";
+  "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
   "DISABLED" = " is disabled"; // dont translate <device>
   "FAST_UNLOCK" = "Fast Unlock";
 
