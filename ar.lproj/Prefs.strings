@@ -47,7 +47,7 @@
   "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
   "OK" = "حسنًا";
   "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
-  "DISABLED" = " معطل"; // لا تترجم <device>
+  "DISABLED" = " is disabled"; // dont translate <device>
   "FAST_UNLOCK" = "فتح قفل سريع";
 
   "PIRATED" = "قرصنة :(";
