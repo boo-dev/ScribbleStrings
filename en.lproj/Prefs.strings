@@ -51,7 +51,7 @@
   "FAST_UNLOCK" = "Fast Unlock";
 
   "PIRATED" = "Pirated :(";
-  "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or donating to me if you enjoy your experience.\n To donate go to: https://boodev.me/donate\nFollow me on twitter: @BooDev";
+  "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing it\nor donating to me if you enjoy your experience.\n Donate: https://boodev.me/donate\nFollow me on twitter: @BooDev";
 
   "NEW_PASSWORD_ENTERED" = "Password Entered!";
   "PASSWORD_ENTERED_MESSAGE" = "Thank you for entering your new password, your device will respring now.";
