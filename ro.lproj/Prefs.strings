@@ -35,5 +35,24 @@
   "WELCOME" = "Bun venit la Scribble!";
   "DESCRIPTION" = "Vă mulțumim că ați achiziționat Scribble!\nVă rugăm să vă deblocați dispozitivul cu codul dumneavoastră de acces\napoi înregistrați-vă noua parolă Scribble în Configurări.";
   "DISMISS" = "ATINGEȚI PENTRU DEGAJARE";
-  "TRANSLATIONS_BY" = "Traduceri oferite de către";
+
+  "ATTEMPTS_ENABLED" = "Dezactivare dispozitiv după încercări eșuate";
+  "NUM_ATTEMPTS" = "Număr de încercări eșuate";
+  "SECURITY" = "Securitate";
+  "CANCEL_KEYPAD" = "\"Anulați\" afișează tastatura";
+
+  "CANCEL" = "Anulați";
+  "EMERGENCY" = "Urgență";
+  "PASSCODE_CHANGED_TITLE" = "Schimbare de cod de acces detectată!";
+  "PASSCODE_CHANGED_MESSAGE" = "Introduceți codul de acces pentru a putea continua să folosiți Scribble";
+  "OK" = "OK";
+  "TRY_AGAIN" = "reîncercați peste 1 minut";
+  "DISABLED" = " dezactivat";
+  "FAST_UNLOCK" = "Deblocare rapidă";
+
+  "PIRATED" = "Piratat :(";
+  "PIRATED_SUB" = "Se pare că ați piratat Scribble. Vă rugăm să considerați achiziționarea\nsau o donație dacă vă bucurați de experiență.\n Donați: https://boodev.me/donate\nUrmăriți-mă pe Twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Parolă introdusă!";
+  "PASSWORD_ENTERED_MESSAGE" = "Vă mulțumim că ați introdus noua voastră parolă, dispozitivul își va da respring acum.";
 }
