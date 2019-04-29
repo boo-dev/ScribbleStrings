@@ -36,10 +36,10 @@
   "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo con tu contraseña\ndespués podrás crear tu contraseña nueva dentro de Scribble.";
   "DISMISS" = "Pulsa para salir";
 
-  "ATTEMPTS_ENABLED" = "Desactivqr número de intentos fallidos";
+  "ATTEMPTS_ENABLED" = "Desactivar número de intentos fallidos";
   "NUM_ATTEMPTS" = "Número de intentos fallidos";
   "SECURITY" = "Seguridad";
-  "CANCEL_KEYPAD" = "Cancelar mostrar teclado";
+  "CANCEL_KEYPAD" = "Mostrar teclado al pulsar cancelar";
 
   "CANCEL" = "Cancelar";
   "EMERGENCY" = "Emergencias";
