@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Style";
+
+  "STROKE_SIZE" = "Stroke Size";
+  "EXPAND_ANIM" = "Expand";
+  "HIGHLIGHT_ANIM" = "Highlight";
+  "HIGHLIGHT_COLOR" = "Highlight Color";
+  "DEFAULT" = "Default";
+  "PAINT" = "Paint";
+  "PAINT_COLOR" = "Paint Color";
+  "UNLOCK_ANIM" = "Unlock Animation";
+  "FAST_UNLOCK" = "Fast Unlock";
+  "PAINT_BACKGROUND_COLOR" = "Background Color";
+}
