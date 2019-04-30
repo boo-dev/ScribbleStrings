@@ -26,7 +26,7 @@
   "EMERGENCY" = "الطوارئ";
   "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير كلمة السر!";
   "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
-  "OK" = "Ok";
+  "OK" = "حسنًا";
   "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
   "DISABLED" = " is disabled"; // dont translate <device>
 
