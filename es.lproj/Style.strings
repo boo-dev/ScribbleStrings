@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Estilo";
+
+  "STROKE_SIZE" = "Grosor";
+  "EXPAND_ANIM" = "Expandir";
+  "HIGHLIGHT_ANIM" = "Repasar";
+  "HIGHLIGHT_COLOR" = "Color del repaso";
+  "DEFAULT" = "Por defecto";
+  "PAINT" = "Pintar";
+  "PAINT_COLOR" = "Color";
+  "UNLOCK_ANIM" = "Animación al desbloquear";
+  "FAST_UNLOCK" = "Desbloqueo rápido";
+  "PAINT_BACKGROUND_COLOR" = "Color del fondo";
+}
