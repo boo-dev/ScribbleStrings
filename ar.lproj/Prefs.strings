@@ -6,7 +6,7 @@
   "SECURITY" = "الأمان";
   
   "ENTER" = "إدخال";
-  "DRAW" = "ارسم";
+  "DRAW" = "رسم";
   "RECORD_PASSWORD" = "تسجيل كلمة السر الخاصة بك";
   "RECORD_NEW_PASSWORD" = "تسجيل كلمة سر جديدة";
   "DRAW_CURRENT_PASS" = "ارسم كلمة السر الحالية";
