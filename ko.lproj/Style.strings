@@ -1,0 +1,14 @@
+{
+  "STYLE" = "스타일";
+
+  "STROKE_SIZE" = "획 크기";
+  "EXPAND_ANIM" = "넓히기";
+  "HIGHLIGHT_ANIM" = "하이라이트";
+  "HIGHLIGHT_COLOR" = "하이라이트 색";
+  "DEFAULT" = "기본 색";
+  "PAINT" = "페인트";
+  "PAINT_COLOR" = "페인트 색";
+  "UNLOCK_ANIM" = "잠금 해제 애니메이션";
+  "FAST_UNLOCK" = "빠른 잠금 해제";
+  "PAINT_BACKGROUND_COLOR" = "배경 색";
+}
