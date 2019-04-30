@@ -1,7 +1,9 @@
 {
   "ENABLED" = "Activado";
-  "STYLE" = "Estilo";
   "APPLY" = "Aplicar";
+
+  "STYLE" = "Estilo";
+  "SECURITY" = "Seguridad";
   
   "ENTER" = "Entrar";
   "DRAW" = "Dibujar";
@@ -11,37 +13,16 @@
   "ONCE_MORE" = "Una vez más";
   "LAST_TIME" = "La última vez";
 
-  "UNLOCK_ANIM" = "Animación para desbloquear";
-  "RECOGNITION_STRICTNESS" = "Reconocimiento Estricto";
-  "LOW" = "Bajo";
-  "MEDIUM" = "Aceptable";
-  "HIGH" = "Alto";
-  "SMALL" = "Pequeño";
-  "LARGE" = "Largo";
-
-  "STROKE_SIZE" = "Tamaño del trazo";
-  "EXPAND_ANIM" = "Expandir";
-  "HIGHLIGHT_ANIM" = "Resaltar Animación";
-  "HIGHLIGHT_COLOR" = "Color de la animación";
-  "DEFAULT" = "Por Defecto";
-  "PAINT" = "Pintar";
-  "PAINT_COLOR" = "Color";
-
   "CHANGE_PASS" = "Cambiar contraseña";
   "RESPRING" = "Respring";
   "RESTORE_DEFAULTS" = "Restaurar los ajustes por defecto";
   
   "CREDITS" = "Créditos";
   "WELCOME" = "¡Bienvenido a Scribble!";
-  "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo con tu contraseña\ndespués podrás crear tu contraseña nueva dentro de Scribble.";
+  "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo\ncon tu contraseña\ndespués podrás crear tu contraseña nueva\n dentro de Scribble.";
   "DISMISS" = "Pulsa para salir";
 
-  "ATTEMPTS_ENABLED" = "Desactivar número de intentos fallidos";
-  "NUM_ATTEMPTS" = "Número de intentos fallidos";
-  "SECURITY" = "Seguridad";
-  "CANCEL_KEYPAD" = "Mostrar teclado al pulsar cancelar";
-
-  "CANCEL" = "Cancelar";
+  "SECURITY" = "Security";CANCEL" = "Cancelar";
   "EMERGENCY" = "Emergencias";
   "PASSCODE_CHANGED_TITLE" = "¡Cambio de contraseña detectado!";
   "PASSCODE_CHANGED_MESSAGE" = "Por favor introduce tu contraseña para seguir utilizando Scribble.";
