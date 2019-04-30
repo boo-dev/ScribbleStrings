@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "보안";
+
+  "RECOGNITION_STRICTNESS" = "패턴 인식 엄격성";
+  "LOW" = "낮음";
+  "MEDIUM" = "보통";
+  "HIGH" = "높음";
+  "SMALL" = "작음";
+  "LARGE" = "큼";
+
+  "ATTEMPTS_ENABLED" = "실패한 시도에 대해 장치 비활성화";
+  "NUM_ATTEMPTS" = "실패 시도 횟수";
+  "CANCEL_KEYPAD" = "취소후 키보드 보임";
+}
