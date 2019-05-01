@@ -1,0 +1,14 @@
+{
+"STYLE" = "Aussehen";
+
+ "STROKE_SIZE" = "Strichgröße";
+  "EXPAND_ANIM" = "Erweitern";
+  "HIGHLIGHT_ANIM" = "Hervorheben";
+  "HIGHLIGHT_COLOR" =       "Hervorhebungsfarbe";
+  "DEFAULT" = "Stardard";
+  "PAINT" = "Farbe";
+  "PAINT_COLOR" = "Farbe";
+  "UNLOCK_ANIM" = "Entsperranimation";
+  "FAST_UNLOCK" = "Schnelles entsperren";
+  "PAINT_BACKGROUND_COLOR" = "Hintergrundfarbe";
+}
