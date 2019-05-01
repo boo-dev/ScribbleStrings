@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Stil";
+  
+  "STROKE_SIZE" = "Çizgi Boyutu";
+  "EXPAND_ANIM" = "Genişlet";
+  "HIGHLIGHT_ANIM" = "Vurgu";
+  "HIGHLIGHT_COLOR" = "Vurgu Rengi";
+  "DEFAULT" = "Varsayılan";
+  "PAINT" = "Boya";
+  "PAINT_COLOR" = "Boya Rengi";
+  "UNLOCK_ANIM" = "Kilit Açma Animasyonu";
+  "FAST_UNLOCK" = "Hızlı Kilit Açma";
+  "PAINT_BACKGROUND_COLOR" = "Arkaplan Rengi";
+}
