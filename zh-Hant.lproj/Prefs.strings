@@ -1,0 +1,38 @@
+{
+  "ENABLED" = "啟用";
+  "APPLY" = "載入設定";
+  
+  "STYLE" = "畫筆風格";
+  "SECURITY" = "安全性設定";
+  
+  "ENTER" = "進入";
+  "DRAW" = "開始畫";
+  "RECORD_PASSWORD" = "請錄製您的密碼";
+  "RECORD_NEW_PASSWORD" = "請錄製新的密碼";
+  "DRAW_CURRENT_PASS" = "請畫出舊的密碼";
+  "ONCE_MORE" = "請再畫一次密碼";
+  "LAST_TIME" = "請再畫最後一次密碼";
+
+  "CHANGE_PASS" = "更改Scribble的密碼";
+  "RESPRING" = "重新載入主畫面";
+  "RESTORE_DEFAULTS" = "重置默認設定";
+  
+  "CREDITS" = "歸功於";
+  "WELCOME" = "歡迎使用Scribble！";
+  "DESCRIPTION" = "感謝您購買Scribble！\n請使用您設備的密碼解鎖\n然後在設定中錄製您的Scribble密碼。";
+  "DISMISS" = "請輕觸螢幕";
+
+  "CANCEL" = "取消";
+  "EMERGENCY" = "緊急事件";
+  "PASSCODE_CHANGED_TITLE" = "偵測到解鎖密碼已更改！";
+  "PASSCODE_CHANGED_MESSAGE" = "請輸入您的密碼以繼續使用Scribble";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "請於一分鐘後再試一次";
+  "DISABLED" = " is disabled"; // dont translate <device>
+
+  "PIRATED" = "您正在使用盜版QQ";
+  "PIRATED_SUB" = "看起來您正在使用盜版的Scribble。 請考慮購買此插件或者\n如果使用得非常滿意的話，請您贊助我。\n 贊助的地址：\nhttps://boodev.me/donate\n 推特追隨我：@BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "輸入密碼！";
+  "PASSWORD_ENTERED_MESSAGE" = "謝謝您輸入新的密碼，您的設備現在將重新載入主畫面。";
+}
