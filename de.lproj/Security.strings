@@ -1,0 +1,19 @@
+{
+  "SECURITY" = "Sicherheit";
+
+  "RECOGNITION_STRICTNESS" = "Erkennungsstrenge";
+  "LOW" = "Niedrig";
+  "MEDIUM" = "Mittel";
+  "HIGH" = "Hoch";
+  "SMALL" = "Klein";
+  "LARGE" = "Groß";
+
+  "ATTEMPTS_ENABLED" = "Deaktiviere Gerät bei fehlgeschlagenen Versuchen";
+  "NUM_ATTEMPTS" = "Anzahl der fehlgeschlagenen Versuche";
+  "CANCEL_KEYPAD" = "Abbrechen zeigt das Tastenfeld";
+}
+
+
+
+  
+  
