@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "セキュリティ";
+
+  "RECOGNITION_STRICTNESS" = "認識の精度";
+  "LOW" = "緩い";
+  "MEDIUM" = "標準";
+  "HIGH" = "厳しい";
+  "SMALL" = "小さい";
+  "LARGE" = "大きい";
+
+  "ATTEMPTS_ENABLED" = "間違えた回数によりデバイスを無効にする";
+  "NUM_ATTEMPTS" = "間違えた回数";
+  "CANCEL_KEYPAD" = "キャンセルを表示";
+}

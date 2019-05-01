@@ -1,0 +1,14 @@
+{
+  "STYLE" = "スタイル";
+
+  "STROKE_SIZE" = "線の太さ";
+  "EXPAND_ANIM" = "広がり";
+  "HIGHLIGHT_ANIM" = "ハイライト";
+  "HIGHLIGHT_COLOR" = "ハイライトの色";
+  "DEFAULT" = "デフォルト";
+  "PAINT" = "描く";
+  "PAINT_COLOR" = "線の色";
+  "UNLOCK_ANIM" = "ロック解除のアニメーション";
+  "FAST_UNLOCK" = "素早いロック解除";
+  "PAINT_BACKGROUND_COLOR" = "背景の色";
+}

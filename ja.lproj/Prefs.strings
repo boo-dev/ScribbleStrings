@@ -1,0 +1,38 @@
+{
+  "ENABLED" = "有効";
+  "APPLY" = "適用";
+  
+  "STYLE" = "スタイル";
+  "SECURITY" = "セキュリティ";
+  
+  "ENTER" = "決定";
+  "DRAW" = "描く";
+  "RECORD_PASSWORD" = "パスワードを設定します";
+  "RECORD_NEW_PASSWORD" = "新しいパスワードを設定する";
+  "DRAW_CURRENT_PASS" = "現在のパスワードを描いてください";
+  "ONCE_MORE" = "もう一度パスワードを描いてください";
+  "LAST_TIME" = "最後にもう一度パスワードを描いてください";
+
+  "CHANGE_PASS" = "パスワードを変更";
+  "RESPRING" = "リスプリング";
+  "RESTORE_DEFAULTS" = "設定をデフォルトにリセット";
+  
+  "CREDITS" = "クレジット";
+  "WELCOME" = "Scribbleへようこそ!";
+  "DESCRIPTION" = "Scribbleを購入していただきありがとうございます!\nあなたのパスワードでデバイスのロックを解除してください。\n新しいScribbleのパスワードは設定アプリで変更できます。";
+  "DISMISS" = "了解";
+
+  "CANCEL" = "キャンセル";
+  "EMERGENCY" = "緊急通報";
+  "PASSCODE_CHANGED_TITLE" = "パスワードの変更が検出されました!";
+  "PASSCODE_CHANGED_MESSAGE" = "Scribbleを使用するためにパスワードを入力してください。";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "1分後にもう一度試してください。";
+  "DISABLED" = " is disabled"; // dont translate <device>
+
+  "PIRATED" = "海賊版... :(";
+  "PIRATED_SUB" = "あなたはScribbleの海賊版を使用しているようです。 あなたがScribbleを使用したいなら、\n 購入するか寄付を考えてください:\nhttps://boodev.me/donate\nFollow me on twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "パスワードを確認";
+  "PASSWORD_ENTERED_MESSAGE" = "新しいパスワードを確認しました。デバイスはリスプリングされます。";
+}
