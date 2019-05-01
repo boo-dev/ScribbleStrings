@@ -11,7 +11,7 @@
   "RECORD_NEW_PASSWORD" = "Neues Passwort aufnehmen";
   "DRAW_CURRENT_PASS" = "Zeichne das aktive Passwort";
   "ONCE_MORE" = "Noch einmal";
-  "LAST_TIME" = "Ein letztes mal";
+  "LAST_TIME" = "Ein letztes Mal";
 
   "CHANGE_PASS" = "Passwort ändern";
   "RESPRING" = "Respring";
@@ -19,7 +19,7 @@
 
   "CREDITS" = "Credits";
   "WELCOME" = "Willkommen bei Scribble!";
-  "DESCRIPTION" = "Danke, dass du Scribble gekauft hast!\nBitte entsperre dein Gerät mit deinem Passwort\ndann nimm dein neues Scribble Passwort in den Einstellungen auf.";
+  "DESCRIPTION" = "Danke, dass du Scribble gekauft hast!\nBitte entsperre dein Gerät mit deinem Passwort\ndann nimm dein neues Scribble Passwort\nin den Einstellungen auf.";
   "DISMISS" = "Tippe zum Schließen.";
 
   "CANCEL" = "Abbrechen";
@@ -32,7 +32,7 @@
   
 
   "PIRATED" = "Raubkopie :(";
-  "PIRATED_SUB" = "Es sieht so aus als hättest du eine Raubkopie von Scribble. Bitte überlege dir den Tweak zu kaufen oder\nmir etwas zu spenden, wenn dir dein Erlebnis gefällt.\n Um zu spenden, gehe zu:\nhttps://boodev.me/donate\nFolge mir auf Twitter: @BooDev";
+  "PIRATED_SUB" = "Es sieht so aus, als hättest du eine Raubkopie von Scribble. Bitte überlege dir den Tweak zu kaufen oder\nmir etwas zu spenden, wenn dir dein Erlebnis gefällt.\n Um zu spenden, gehe zu:\nhttps://boodev.me/donate\nFolge mir auf Twitter: @BooDev";
 
   "NEW_PASSWORD_ENTERED" = "Passwort eingegeben!";
   "PASSWORD_ENTERED_MESSAGE" = "Danke, dass du dein neues Passwort eingegeben hast. Das Gerät wird nun einen Respring ausführen.";
