@@ -1,0 +1,14 @@
+{
+   "SECURITY" = "Güvenlik";
+   
+  "RECOGNITION_STRICTNESS" = "Algılama Sertliği";
+  "LOW" = "Alçak";
+  "MEDIUM" = "Orta";
+  "HIGH" = "Yüksek";
+  "SMALL" = "Küçük";
+  "LARGE" = "Büyük";
+  
+  "ATTEMPTS_ENABLED" = "Yanlış Girişler İçin Cihazı Devre Dışı Bırak";
+  "NUM_ATTEMPTS" = "Yanlış Giriş Sayısı";
+  "CANCEL_KEYPAD" = "Tuş Takımı";
+}
