@@ -1,7 +1,9 @@
 {
   "ENABLED" = "Activat";
-  "STYLE" = "Stil";
   "APPLY" = "Aplicați";
+  
+  "STYLE" = "Stil";
+  "SECURITY" = "Securitate";
   
   "ENTER" = "Introduceți";
   "DRAW" = "Desenați";
@@ -10,22 +12,6 @@
   "DRAW_CURRENT_PASS" = "Desenați parola actuală";
   "ONCE_MORE" = "Încă o dată";
   "LAST_TIME" = "Ultima oară";
-
-  "UNLOCK_ANIM" = "Animație de deblocare";
-  "RECOGNITION_STRICTNESS" = "Strictețea recunoașterii";
-  "LOW" = "Joasă";
-  "MEDIUM" = "Medie";
-  "HIGH" = "Ridicată";
-  "SMALL" = "Mică";
-  "LARGE" = "Mare";
-
-  "STROKE_SIZE" = "Mărimea urmei";
-  "EXPAND_ANIM" = "Extindere";
-  "HIGHLIGHT_ANIM" = "Accentuare";
-  "HIGHLIGHT_COLOR" = "Culoare accent";
-  "DEFAULT" = "Implicit";
-  "PAINT" = "Vopsea";
-  "PAINT_COLOR" = "Culoare vopsea";
 
   "CHANGE_PASS" = "Schimbați parola";
   "RESPRING" = "Respring";
@@ -36,11 +22,6 @@
   "DESCRIPTION" = "Vă mulțumim că ați achiziționat Scribble!\nVă rugăm să vă deblocați dispozitivul cu codul dumneavoastră de acces\napoi înregistrați-vă noua parolă Scribble în Configurări.";
   "DISMISS" = "ATINGEȚI PENTRU DEGAJARE";
 
-  "ATTEMPTS_ENABLED" = "Dezactivare dispozitiv după încercări eșuate";
-  "NUM_ATTEMPTS" = "Număr de încercări eșuate";
-  "SECURITY" = "Securitate";
-  "CANCEL_KEYPAD" = "\"Anulați\" afișează tastatura";
-
   "CANCEL" = "Anulați";
   "EMERGENCY" = "Urgență";
   "PASSCODE_CHANGED_TITLE" = "Schimbare de cod de acces detectată!";
@@ -48,7 +29,6 @@
   "OK" = "OK";
   "TRY_AGAIN" = "reîncercați peste 1 minut";
   "DISABLED" = " dezactivat";
-  "FAST_UNLOCK" = "Deblocare rapidă";
 
   "PIRATED" = "Piratat :(";
   "PIRATED_SUB" = "Se pare că ați piratat Scribble. Vă rugăm să considerați achiziționarea\nsau o donație dacă vă bucurați de experiență.\n Donați: https://boodev.me/donate\nUrmăriți-mă pe Twitter: @BooDev";
