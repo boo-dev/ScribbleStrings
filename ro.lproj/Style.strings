@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Stil";
+
+  "STROKE_SIZE" = "Mărimea urmei";
+  "EXPAND_ANIM" = "Extindere";
+  "HIGHLIGHT_ANIM" = "Accentuare";
+  "HIGHLIGHT_COLOR" = "Culoare accent";
+  "DEFAULT" = "Implicit";
+  "PAINT" = "Vopsea";
+  "PAINT_COLOR" = "Culoare vopsea";
+  "UNLOCK_ANIM" = "Animație de deblocare";
+  "FAST_UNLOCK" = "Deblocare rapidă";
+  "PAINT_BACKGROUND_COLOR" = "Culoare fundal";
+}
