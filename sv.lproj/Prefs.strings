@@ -1,0 +1,38 @@
+{
+  "ENABLED" = "Aktiverad";
+  "APPLY" = "Tillämpa";
+  
+  "STYLE" = "stil";
+  "SECURITY" = "säkerhet";
+  
+  "ENTER" = "Inmata";
+  "DRAW" = "Rita";
+  "RECORD_PASSWORD" = "Spela in ditt lösenord";
+  "RECORD_NEW_PASSWORD" = "Spela in nytt lösenord";
+  "DRAW_CURRENT_PASS" = "Rita nuvarande lösenord";
+  "ONCE_MORE" = "En gång till";
+  "LAST_TIME" = "En sista gång till";
+
+  "CHANGE_PASS" = "Ändra lösenord";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Återställ inställningar Tillbaka till standard";
+  
+  "CREDITS" = "Credits";
+  "WELCOME" = "Välkommen till Scribble!";
+  "DESCRIPTION" = "Tack för att du har köpt Scribble!\nVänligen lås upp din enhet med ditt lösenord\nregistrera sedan ditt nya Skribbel lösenord i Inställningar.";
+  "DISMISS" = "tryck för att avsluta";
+
+  "CANCEL" = "Avbryt";
+  "EMERGENCY" = "Nödsituation";
+  "PASSCODE_CHANGED_TITLE" = "Lösenordsändring upptäckt!";
+  "PASSCODE_CHANGED_MESSAGE" = "Vänligen ange ditt lösenord för att fortsätta använda Scribble";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "försök igen om 1 minut";
+  "DISABLED" = " är avaktiverad"; // dont translate <device>
+
+  "PIRATED" = "Piratkopierad  :(";
+  "PIRATED_SUB" = "Det verkar som om du har piratkopierat. Vänligen tänk över att köpa denna tweak eller\ndonerar till mig om du tycker om din upplevelse.\n För att donera gå till:\nhttps://boodev.me/donate\nFölj mig på Twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Lösenord Inmatat!";
+  "PASSWORD_ENTERED_MESSAGE" = "Tack för att du har angett ditt nya lösenord, din enhet kommer nu att respringa om.";
+}

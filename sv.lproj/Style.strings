@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Stil";
+
+  "STROKE_SIZE" = "tjocklek";
+  "EXPAND_ANIM" = "Expandera";
+  "HIGHLIGHT_ANIM" = "Översyn";
+  "HIGHLIGHT_COLOR" = "Översyn Färg";
+  "DEFAULT" = "Standard";
+  "PAINT" = "Måla";
+  "PAINT_COLOR" = "Målar Färg";
+  "UNLOCK_ANIM" = "Lås Upp Animering";
+  "FAST_UNLOCK" = "Snabb Upplåsning";
+  "PAINT_BACKGROUND_COLOR" = "Backgrund Färg";
+}

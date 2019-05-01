@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Säkerhet";
+
+  "RECOGNITION_STRICTNESS" = "erkännande strikthet";
+  "LOW" = "Låg";
+  "MEDIUM" = "Medium";
+  "HIGH" = "Hög";
+  "SMALL" = "liten";
+  "LARGE" = "Stor";
+
+  "ATTEMPTS_ENABLED" = "Inaktivera enhet för misslyckade försök";
+  "NUM_ATTEMPTS" = "Antal misslyckade försök";
+  "CANCEL_KEYPAD" = "Avbryt Visar knappsats";
+}
