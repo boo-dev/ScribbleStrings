@@ -1,0 +1,58 @@
+{
+  "ENABLED" = "Ingeschakeld";
+  "STYLE" = "Stijl";
+  "APPLY" = "Toepassen";
+  
+  "ENTER" = "Volgende";
+  "DRAW" = "Teken";
+  "RECORD_PASSWORD" = "Neem wachtwoord op";
+  "RECORD_NEW_PASSWORD" = "Neem nieuw wachtwoord op";
+  "DRAW_CURRENT_PASS" = "Teken huidig wachtwoord";
+  "ONCE_MORE" = "Nog een keer";
+  "LAST_TIME" = "Nog een laatste keer";
+
+  "UNLOCK_ANIM" = "Unlock Animatie";
+  "RECOGNITION_STRICTNESS" = "Herkennings Striktheid";
+  "LOW" = "Laag";
+  "MEDIUM" = "Gemiddeld";
+  "HIGH" = "Hoog";
+  "SMALL" = "Klein";
+  "LARGE" = "Groot";
+
+  "STROKE_SIZE" = "Borstel Grootte";
+  "EXPAND_ANIM" = "Zet uit";
+  "HIGHLIGHT_ANIM" = "Markeer";
+  "HIGHLIGHT_COLOR" = "Markeer kleur";
+  "DEFAULT" = "Standaart";
+  "PAINT" = "Verf";
+  "PAINT_COLOR" = "Verf Color";
+
+  "CHANGE_PASS" = "Verander Password";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Herstel settings naar standaart";
+  
+  "CREDITS" = "Krediet";
+  "WELCOME" = "Welkom in Scribble!";
+  "DESCRIPTION" = "Danku om Scribble te kopen!\nUnlock je apparaat met je passcode\nen dan neem je jouw Scribble passcode op in Settings.";
+  "DISMISS" = "Tap om weg te doen";
+
+  "ATTEMPTS_ENABLED" = "Zet apparaat uit achter gefaalde pogingen";
+  "NUM_ATTEMPTS" = "Aantal pogingen";
+  "SECURITY" = "Beveiliging";
+  "CANCEL_KEYPAD" = "Niet de keypad tonen";
+
+  "CANCEL" = "Annuleer";
+  "EMERGENCY" = "Noodgeval";
+  "PASSCODE_CHANGED_TITLE" = "Password verandering gedetecteerd";
+  "PASSCODE_CHANGED_MESSAGE" = "Vul uw nieuw wachtwoord in om Scribble te gebruiken";
+  "OK" = "Oke";
+  "TRY_AGAIN" = "Probeer nog eens in 1 minuut";
+  "DISABLED" = " is uitgeschakeld"; // dont translate <device>
+  "FAST_UNLOCK" = "Snel Ontgrendelen";
+
+  "PIRATED" = "Gepirateerd :(";
+  "PIRATED_SUB" = "Het ziet er naar uit dat je Scribble illegaal hebt gedownload. Koop aub deze tweak of denk eraan om \nte doneren naar mij als je deze tweak goed vind.\n Om te doneren:\nhttps://boodev.me/donate\nVolg mij op twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Password ingevuld!";
+  "PASSWORD_ENTERED_MESSAGE" = "Bedankt om je nieuwe wachtwoord in te vullen je apparaat zal nu respringen.";
+}

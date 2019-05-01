@@ -1,39 +1,38 @@
 {
   "ENABLED" = "تفعيل";
-  "STYLE" = "الشكل";
   "APPLY" = "تطبيق";
   
+  "STYLE" = "الشكل";
+  "SECURITY" = "الأمان";
+  
   "ENTER" = "إدخال";
-  "DRAW" = "ارسم";
+  "DRAW" = "رسم";
   "RECORD_PASSWORD" = "تسجيل كلمة السر الخاصة بك";
   "RECORD_NEW_PASSWORD" = "تسجيل كلمة سر جديدة";
   "DRAW_CURRENT_PASS" = "ارسم كلمة السر الحالية";
   "ONCE_MORE" = "مرة أخرى";
   "LAST_TIME" = "للمرة الأخيرة";
 
-  "UNLOCK_ANIM" = "التأثير الحركي لفتح القفل";
-  "RECOGNITION_STRICTNESS" = "دقة التعرف";
-  "LOW" = "منخفضة";
-  "MEDIUM" = "متوسطة";
-  "HIGH" = "مرتفعة";
-  "SMALL" = "صغير";
-  "LARGE" = "كبير";
-
-  "STROKE_SIZE" = "حجم الرسم";
-  "EXPAND_ANIM" = "توسع";
-  "HIGHLIGHT_ANIM" = "إضاءة";
-  "HIGHLIGHT_COLOR" = "لون الإضاءة";
-  "DEFAULT" = "افتراضي";
-  "PAINT" = "مصبوغ";
-  "PAINT_COLOR" = "لون الصبغة";
-
   "CHANGE_PASS" = "تغيير كلمة السر";
   "RESPRING" = "ريسبرنج";
   "RESTORE_DEFAULTS" = "إعادة تعيين الإعدادات إلى الافتراضية";
-    
+  
   "CREDITS" = "الاعتمادات";
   "WELCOME" = "مرحبًا بك في Scribble!";
   "DESCRIPTION" = "شكرًا لشرائك Scribble!\nيرجى فتح قفل جهازك عن طريق رمز الدخول الخاص بك\nوبعد ذلك قم بتسجيل كلمة سر Scribble جديدة من الإعدادات.";
-  "DISMISS" = "انقر هنا للتجاهل";
-  "TRANSLATIONS_BY" = "تمت الترجمة بواسطة";
+  "DISMISS" = "انقر للتجاهل";
+
+  "CANCEL" = "إلغاء";
+  "EMERGENCY" = "الطوارئ";
+  "PASSCODE_CHANGED_TITLE" = "تم اكتشاف تغيير كلمة السر!";
+  "PASSCODE_CHANGED_MESSAGE" = "يرجى إدخال رمز الدخول الخاص بك لمتابعة استخدام Scribble";
+  "OK" = "حسنًا";
+  "TRY_AGAIN" = "حاول مجددًا بعد دقيقة";
+  "DISABLED" = " is disabled"; // dont translate <device>
+
+  "PIRATED" = "قرصنة :(";
+  "PIRATED_SUB" = "يبدو أن هذه نسخة مقرصنة من Scribble. يرجى التفكير في شراء هذه الأداة أو\nالتبرع لي إذا كنت تستمتع بتجربتك.\n للتبرع اذهب إلى:\nhttps://boodev.me/donate\nتابعني على تويتر: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "تم إدخال كلمة السر!";
+  "PASSWORD_ENTERED_MESSAGE" = "شكرًا لك على إدخالك لكلمة السر الجديدة، سيتم عمل ريسبرنج لجهازك الآن.";
 }

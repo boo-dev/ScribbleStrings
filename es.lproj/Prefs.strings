@@ -1,7 +1,9 @@
 {
   "ENABLED" = "Activado";
-  "STYLE" = "Estilo";
   "APPLY" = "Aplicar";
+
+  "STYLE" = "Estilo";
+  "SECURITY" = "Seguridad";
   
   "ENTER" = "Entrar";
   "DRAW" = "Dibujar";
@@ -11,29 +13,27 @@
   "ONCE_MORE" = "Una vez más";
   "LAST_TIME" = "La última vez";
 
-  "UNLOCK_ANIM" = "Animación para desbloquear";
-  "RECOGNITION_STRICTNESS" = "Reconocimiento Estricto";
-  "LOW" = "Bajo";
-  "MEDIUM" = "Aceptable";
-  "HIGH" = "Alto";
-  "SMALL" = "Pequeño";
-  "LARGE" = "Largo";
-
-  "STROKE_SIZE" = "Tamaño del trazo";
-  "EXPAND_ANIM" = "Expandir";
-  "HIGHLIGHT_ANIM" = "Resaltar Animación";
-  "HIGHLIGHT_COLOR" = "Color de la animación";
-  "DEFAULT" = "Por Defecto";
-  "PAINT" = "Pintar";
-  "PAINT_COLOR" = "Color";
-
   "CHANGE_PASS" = "Cambiar contraseña";
   "RESPRING" = "Respring";
   "RESTORE_DEFAULTS" = "Restaurar los ajustes por defecto";
   
   "CREDITS" = "Créditos";
   "WELCOME" = "¡Bienvenido a Scribble!";
-  "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo con tu contraseña\ndespués podrás crear tu contraseña nueva dentro de Scribble.";
+  "DESCRIPTION" = "¡Gracias por comprar Scribble!\nPor favor desbloquea tu dispositivo\ncon tu contraseña\ndespués podrás crear tu contraseña nueva\n dentro de Scribble.";
   "DISMISS" = "Pulsa para salir";
-  "TRANSLATIONS_BY" = "Traducción hecha por @tnttaolin2";
+
+  "SECURITY" = "Security";CANCEL" = "Cancelar";
+  "EMERGENCY" = "Emergencias";
+  "PASSCODE_CHANGED_TITLE" = "¡Cambio de contraseña detectado!";
+  "PASSCODE_CHANGED_MESSAGE" = "Por favor introduce tu contraseña para seguir utilizando Scribble.";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "inténtalo dentro de 1 minuto";
+  "DISABLED" = " esta desactivado"; // dont translate <device>
+  "FAST_UNLOCK" = "Desbloqueo Rápido";
+
+  "PIRATED" = "Pirateado :(";
+  "PIRATED_SUB" = "Parece que has pirateado Scribble. Considera comprando este tweak or\ndonandome si quieres disfrutar de la experiencia.\n Para donar ve a esta página:\nhttps://boodev.me/donate\nSígueme en Twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "¡Contraseña introducida!";
+  "PASSWORD_ENTERED_MESSAGE" = "Gracias por introducir tu nueva contraseña, tu dispositivo hará un pequeño respring ahora.";
 }

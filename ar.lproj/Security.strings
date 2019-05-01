@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "الأمان";
+
+  "RECOGNITION_STRICTNESS" = "دقة التعرف";
+  "LOW" = "منخفضة";
+  "MEDIUM" = "متوسطة";
+  "HIGH" = "مرتفعة";
+  "SMALL" = "صغير";
+  "LARGE" = "كبير";
+
+  "ATTEMPTS_ENABLED" = "تعطيل الجهاز للمحاولات الفاشلة";
+  "NUM_ATTEMPTS" = "عدد المحاولات الفاشلة";
+  "CANCEL_KEYPAD" = "إلغاء إظهار لوحة المفاتيح";
+}

@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Securitate";
+
+  "RECOGNITION_STRICTNESS" = "Strictețea recunoașterii";
+  "LOW" = "Joasă";
+  "MEDIUM" = "Medie";
+  "HIGH" = "Ridicată";
+  "SMALL" = "Mică";
+  "LARGE" = "Mare";
+
+  "ATTEMPTS_ENABLED" = "Dezactivare dispozitiv după încercări eșuate";
+  "NUM_ATTEMPTS" = "Număr de încercări eșuate";
+  "CANCEL_KEYPAD" = "\"Anulați\" afișează tastatura";
+}

@@ -1,7 +1,9 @@
 {
   "ENABLED" = "Enabled";
-  "STYLE" = "Style";
   "APPLY" = "Apply";
+  
+  "STYLE" = "Style";
+  "SECURITY" = "Security";
   
   "ENTER" = "Enter";
   "DRAW" = "Draw";
@@ -10,22 +12,6 @@
   "DRAW_CURRENT_PASS" = "Draw Current Password";
   "ONCE_MORE" = "Once More";
   "LAST_TIME" = "One Last Time";
-
-  "UNLOCK_ANIM" = "Unlock Animation";
-  "RECOGNITION_STRICTNESS" = "Recognition Strictness";
-  "LOW" = "Low";
-  "MEDIUM" = "Medium";
-  "HIGH" = "High";
-  "SMALL" = "Small";
-  "LARGE" = "Large";
-
-  "STROKE_SIZE" = "Stroke Size";
-  "EXPAND_ANIM" = "Expand";
-  "HIGHLIGHT_ANIM" = "Highlight";
-  "HIGHLIGHT_COLOR" = "Highlight Color";
-  "DEFAULT" = "Default";
-  "PAINT" = "Paint";
-  "PAINT_COLOR" = "Paint Color";
 
   "CHANGE_PASS" = "Change Password";
   "RESPRING" = "Respring";
@@ -36,11 +22,6 @@
   "DESCRIPTION" = "Thank you for purchasing Scribble!\nPlease unlock your device with your passcode\nthen record your new Scribble password in Settings.";
   "DISMISS" = "TAP TO DISMISS";
 
-  "ATTEMPTS_ENABLED" = "Disable Device For Failed Attempts";
-  "NUM_ATTEMPTS" = "Number of Failed Attempts";
-  "SECURITY" = "Security";
-  "CANCEL_KEYPAD" = "Cancel Shows Keypad";
-
   "CANCEL" = "Cancel";
   "EMERGENCY" = "Emergency";
   "PASSCODE_CHANGED_TITLE" = "Password Change Detected!";
@@ -48,7 +29,6 @@
   "OK" = "Ok";
   "TRY_AGAIN" = "try again in 1 minute";
   "DISABLED" = " is disabled"; // dont translate <device>
-  "FAST_UNLOCK" = "Fast Unlock";
 
   "PIRATED" = "Pirated :(";
   "PIRATED_SUB" = "It looks like you've pirated Scribble. Please consider purchasing this tweak or\ndonating to me if you enjoy your experience.\n To donate go to:\nhttps://boodev.me/donate\nFollow me on twitter: @BooDev";

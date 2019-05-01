@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Security";
+
+  "RECOGNITION_STRICTNESS" = "Recognition Strictness";
+  "LOW" = "Low";
+  "MEDIUM" = "Medium";
+  "HIGH" = "High";
+  "SMALL" = "Small";
+  "LARGE" = "Large";
+
+  "ATTEMPTS_ENABLED" = "Disable Device For Failed Attempts";
+  "NUM_ATTEMPTS" = "Number of Failed Attempts";
+  "CANCEL_KEYPAD" = "Cancel Shows Keypad";
+}

@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Seguridad";
+
+  "RECOGNITION_STRICTNESS" = "Reconocimiento estricto";
+  "LOW" = "Bajo";
+  "MEDIUM" = "Medio";
+  "HIGH" = "Alto";
+  "SMALL" = "Pequeño";
+  "LARGE" = "Grande";
+
+  "ATTEMPTS_ENABLED" = "Desactivar números de intentos fallidos";
+  "NUM_ATTEMPTS" = "Número de intentos fallidos";
+  "CANCEL_KEYPAD" = "Mostrar teclado al pulsar cancelar";
+}
