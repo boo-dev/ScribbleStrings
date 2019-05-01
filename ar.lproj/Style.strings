@@ -1,0 +1,14 @@
+{
+  "STYLE" = "الشكل";
+
+  "STROKE_SIZE" = "حجم الرسم";
+  "EXPAND_ANIM" = "توسع";
+  "HIGHLIGHT_ANIM" = "ضوء مسلط";
+  "HIGHLIGHT_COLOR" = "لون الضوء المسلط";
+  "DEFAULT" = "افتراضي";
+  "PAINT" = "مصبوغ";
+  "PAINT_COLOR" = "لون الصبغة";
+  "UNLOCK_ANIM" = "التأثير الحركي لفتح القفل";
+  "FAST_UNLOCK" = "فتح قفل سريع";
+  "PAINT_BACKGROUND_COLOR" = "لون الخلفية";
+}
