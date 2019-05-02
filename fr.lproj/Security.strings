@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Securité";
+
+  "RECOGNITION_STRICTNESS" = "Rigueur de la reconnaissance";
+  "LOW" = "Basse";
+  "MEDIUM" = "Moyenne";
+  "HIGH" = "Haute";
+  "SMALL" = "Petite";
+  "LARGE" = "Grande";
+
+  "ATTEMPTS_ENABLED" = "Désactiver l'appareil pour les essais ratés";
+  "NUM_ATTEMPTS" = "Nombre d'essais ratés";
+  "CANCEL_KEYPAD" = "Annuler, montrer le keypad";
+}

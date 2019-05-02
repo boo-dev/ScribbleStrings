@@ -1,0 +1,38 @@
+{
+  "ENABLED" = "Activé";
+  "APPLY" = "Appliquer";
+  
+  "STYLE" = "Style";
+  "SECURITY" = "Securité";
+  
+  "ENTER" = "Entrer";
+  "DRAW" = "Dessiner";
+  "RECORD_PASSWORD" = "Enregistrez votre mot de passe";
+  "RECORD_NEW_PASSWORD" = "Enregistrez votre nouveau mot de passe";
+  "DRAW_CURRENT_PASS" = "Dessinez votre mot de passe";
+  "ONCE_MORE" = "Encore une fois";
+  "LAST_TIME" = "Encore une dernière fois";
+
+  "CHANGE_PASS" = "Changer votre mot de passe";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Réinitialiser les paramètres";
+  
+  "CREDITS" = "Crédits";
+  "WELCOME" = "Bienvenue sur Scribble!";
+  "DESCRIPTION" = "Merci d'avoir acheté Scribble!\nDéverouillez votre appareil avec votre mot de passe\nPuis enregistrez votre mot de passe Scribble dans les paramètres.";
+  "DISMISS" = "Appuyez pour cacher";
+
+  "CANCEL" = "Annuler";
+  "EMERGENCY" = "Urgence";
+  "PASSCODE_CHANGED_TITLE" = "Changement de mot de passe détécté!";
+  "PASSCODE_CHANGED_MESSAGE" = "S'il vous plait entrez votre mot de passe pour continuer à utiliser Scribble";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "Réessayez dans 1 minute";
+  "DISABLED" = " is disabled"; // dont translate <device>
+
+  "PIRATED" = "Piraté :(";
+  "PIRATED_SUB" = "Apparemment vous avez piraté Scribble. S'il vous plait achetez le tweak ou faites\nun don si vous l'appréciez.\n Pour faire une donnation:\nhttps://boodev.me/donate\nSuivez moi sur twitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Mot de passe entré!";
+  "PASSWORD_ENTERED_MESSAGE" = "Nouveau mot de passe enregistré, votre appareil va respring.";
+}

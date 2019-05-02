@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Style";
+
+  "STROKE_SIZE" = "Taille du tracé";
+  "EXPAND_ANIM" = "Étendre";
+  "HIGHLIGHT_ANIM" = "Surligner";
+  "HIGHLIGHT_COLOR" = "Couleur du surlignage";
+  "DEFAULT" = "Par défaut";
+  "PAINT" = "Peindre";
+  "PAINT_COLOR" = "Couleur de la peinture";
+  "UNLOCK_ANIM" = "Animation de déverouillage";
+  "FAST_UNLOCK" = "Déverouillage rapide";
+  "PAINT_BACKGROUND_COLOR" = "Couleur du fond";
+}
