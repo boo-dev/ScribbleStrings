@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Стиль";
+
+  "STROKE_SIZE" = "Размер кисти";
+  "EXPAND_ANIM" = "Увеличение";
+  "HIGHLIGHT_ANIM" = "Подсветка";
+  "HIGHLIGHT_COLOR" = "Цвет подсветки";
+  "DEFAULT" = "По умолчанию";
+  "PAINT" = "Краска";
+  "PAINT_COLOR" = "Цвет краски";
+  "UNLOCK_ANIM" = "Анимация разблокировки";
+  "FAST_UNLOCK" = "Быстрая разблокировка";
+  "PAINT_BACKGROUND_COLOR" = "Цвет фона";
+}
