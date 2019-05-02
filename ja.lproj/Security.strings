@@ -1,14 +1,14 @@
 {
-  "SECURITY" = "ƒZƒLƒ…ƒƒeƒB";
+  "SECURITY" = "γ‚»γ‚­γƒ¥γƒªγƒ†γ‚£";
 
-  "RECOGNITION_STRICTNESS" = "”F―‚ΜΈ“x";
-  "LOW" = "Ι‚Ά";
-  "MEDIUM" = "•W€";
-  "HIGH" = "µ‚µ‚Ά";
-  "SMALL" = "¬‚³‚Ά";
-  "LARGE" = "‘ε‚«‚Ά";
+  "RECOGNITION_STRICTNESS" = "θªθ­γ®η²ΎεΊ¦";
+  "LOW" = "η·©γ„";
+  "MEDIUM" = "ζ¨™ζΊ–";
+  "HIGH" = "ε³γ—γ„";
+  "SMALL" = "ε°γ•γ„";
+  "LARGE" = "ε¤§γγ„";
 
-  "ATTEMPTS_ENABLED" = "Τα‚¦‚½‰ρ”‚Ι‚ζ‚θƒfƒoƒCƒX‚π–³ψ‚Ι‚·‚ι";
-  "NUM_ATTEMPTS" = "Τα‚¦‚½‰ρ”";
-  "CANCEL_KEYPAD" = "ƒLƒƒƒ“ƒZƒ‹‚π•\¦";
+  "ATTEMPTS_ENABLED" = "ι–“ι•γγε›ζ•°γ«γ‚γ‚γƒ‡γƒγ‚¤γ‚Ήγ‚’η„΅εΉγ«γ™γ‚‹";
+  "NUM_ATTEMPTS" = "ι–“ι•γγε›ζ•°";
+  "CANCEL_KEYPAD" = "γ‚­γƒ£γƒ³γ‚»γƒ«γ‚’θ΅¨η¤Ί";
 }

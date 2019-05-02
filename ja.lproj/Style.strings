@@ -1,14 +1,14 @@
 {
-  "STYLE" = "ƒXƒ^ƒCƒ‹";
+  "STYLE" = "ã‚¹ã‚¿ã‚¤ãƒ«";
 
-  "STROKE_SIZE" = "ü‚Ì‘¾‚³";
-  "EXPAND_ANIM" = "L‚ª‚è";
-  "HIGHLIGHT_ANIM" = "ƒnƒCƒ‰ƒCƒg";
-  "HIGHLIGHT_COLOR" = "ƒnƒCƒ‰ƒCƒg‚ÌF";
-  "DEFAULT" = "ƒfƒtƒHƒ‹ƒg";
-  "PAINT" = "•`‚­";
-  "PAINT_COLOR" = "ü‚ÌF";
-  "UNLOCK_ANIM" = "ƒƒbƒN‰ðœ‚ÌƒAƒjƒ[ƒVƒ‡ƒ“";
-  "FAST_UNLOCK" = "‘f‘‚¢ƒƒbƒN‰ðœ";
-  "PAINT_BACKGROUND_COLOR" = "”wŒi‚ÌF";
+  "STROKE_SIZE" = "ç·šã®å¤ªã•";
+  "EXPAND_ANIM" = "åºƒãŒã‚Š";
+  "HIGHLIGHT_ANIM" = "ãƒã‚¤ãƒ©ã‚¤ãƒˆ";
+  "HIGHLIGHT_COLOR" = "ãƒã‚¤ãƒ©ã‚¤ãƒˆã®è‰²";
+  "DEFAULT" = "ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ";
+  "PAINT" = "æã";
+  "PAINT_COLOR" = "ç·šã®è‰²";
+  "UNLOCK_ANIM" = "ãƒ­ãƒƒã‚¯è§£é™¤ã®ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³";
+  "FAST_UNLOCK" = "ç´ æ—©ã„ãƒ­ãƒƒã‚¯è§£é™¤";
+  "PAINT_BACKGROUND_COLOR" = "èƒŒæ™¯ã®è‰²";
 }
