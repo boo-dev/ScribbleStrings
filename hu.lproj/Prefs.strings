@@ -1,0 +1,38 @@
+{
+  "ENABLED" = "Engedélyezve";
+  "APPLY" = "Alkalmaz";
+  
+  "STYLE" = "Stílus";
+  "SECURITY" = "Biztonság";
+  
+  "ENTER" = "Enter";
+  "DRAW" = "Draw";
+  "RECORD_PASSWORD" = "Jelszó rögzítése";
+  "RECORD_NEW_PASSWORD" = "Új jelszó rögzítése";
+  "DRAW_CURRENT_PASS" = "Jelenlegi jelszó lerajzolása";
+  "ONCE_MORE" = "Még egyszer";
+  "LAST_TIME" = "Még egyszer utoljára";
+
+  "CHANGE_PASS" = "Jelszó megváltoztatása";
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Beállítások visszaállítása";
+  
+  "CREDITS" = "Credits";
+  "WELCOME" = "Üdvözöl a Scribble!";
+  "DESCRIPTION" = "Köszönjük, hogy megvásárolta a Scribble-t!\nKérem oldja fel az eszközt\nmajd rögzítse a Scribble jelszavát a beállításokban.";
+  "DISMISS" = "KOPPINTSON AZ ELUTASÍTÁSHOZ";
+
+  "CANCEL" = "Mégse";
+  "EMERGENCY" = "Vészhelyzet";
+  "PASSCODE_CHANGED_TITLE" = "Jelszó változtatás érzékelve!";
+  "PASSCODE_CHANGED_MESSAGE" = "Kérem írja be a jelszavát a Scribble további használatához";
+  "OK" = "Ok";
+  "TRY_AGAIN" = "próbálja újra 1 perc múlva";
+  "DISABLED" = " letiltva"; // dont translate <device>
+
+  "PIRATED" = "Kalóz verzió :(";
+  "PIRATED_SUB" = "A Scribble verziód lopott.\nKérlek vásárold meg vagy támogasd a fejlesztőt.\nTámogatás: https://boodev.me/donate\nTwitter: @BooDev";
+
+  "NEW_PASSWORD_ENTERED" = "Jelszó beírva!";
+  "PASSWORD_ENTERED_MESSAGE" = "Köszönjük, hogy beírtad az új jelszót, a telefon most újraindul.";
+}
