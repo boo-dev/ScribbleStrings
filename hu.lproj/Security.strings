@@ -1,0 +1,14 @@
+{
+  "SECURITY" = "Biztonság";
+
+  "RECOGNITION_STRICTNESS" = "Felismerés szigorúsága";
+  "LOW" = "Alacsony";
+  "MEDIUM" = "Közepes";
+  "HIGH" = "Magas";
+  "SMALL" = "Kicsi";
+  "LARGE" = "Nagy";
+
+  "ATTEMPTS_ENABLED" = "Eszköz letiltása sikertelen próbálkozásokért";
+  "NUM_ATTEMPTS" = "Sikertelen próbálkozások száma";
+  "CANCEL_KEYPAD" = "A mégse megnyitja a billentyűzetet";
+}

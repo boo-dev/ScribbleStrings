@@ -1,0 +1,14 @@
+{
+  "STYLE" = "Stílus";
+
+  "STROKE_SIZE" = "Ütés mérete";
+  "EXPAND_ANIM" = "Kiterjedés";
+  "HIGHLIGHT_ANIM" = "Kiemelés";
+  "HIGHLIGHT_COLOR" = "Kiemelés színe";
+  "DEFAULT" = "Alapértelmezett";
+  "PAINT" = "Festés";
+  "PAINT_COLOR" = "Festés színe";
+  "UNLOCK_ANIM" = "Megnyitás animációja";
+  "FAST_UNLOCK" = "Gyors feloldás";
+  "PAINT_BACKGROUND_COLOR" = "Háttér színe";
+}
